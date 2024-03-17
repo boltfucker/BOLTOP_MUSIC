@@ -14,10 +14,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "Systumm_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "NIKKU_ROBIT")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Sytumm music")
+BOT_NAME = getenv("BOT_NAME" , "𝖳𝗁𝖾 𝖠𝗏𝖾𝗇𝗀𝖾𝗋 𝖲𝗈𝖼𝗂𝖾𝗍𝗒")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -46,7 +46,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SCIENCE_CLUBS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ARYANSTUDYGROUP")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TheAvengerSociety")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
