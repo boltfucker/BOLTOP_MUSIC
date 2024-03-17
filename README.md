@@ -26,4 +26,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/ALEX655ES) ғᴏʀ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/ALEX665ES/AnshikaMusicBot) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳𝗁𝖾 𝖠𝗏𝖾𝗇𝗀𝖾𝗋 𝖲𝗈𝖼𝗂𝖾𝗍𝗒™](https://github.com/ALEX655ES) ғᴏʀ [𝖳𝗁𝖾 𝖠𝗏𝖾𝗇𝗀𝖾𝗋 𝖲𝗈𝖼𝗂𝖾𝗍𝗒™](https://github.com/ALEX665ES/AnshikaMusicBot) </b>
