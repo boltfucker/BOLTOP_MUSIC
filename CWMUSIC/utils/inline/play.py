@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/Devil_iz_back",
+                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/AbOuTInNoCeNt",
             ),
             InlineKeyboardButton(
                 text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/TheAvengerSociety",
@@ -91,7 +91,7 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/Devil_iz_back",
+                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/AbOuTInNoCeNt",
             ),
             InlineKeyboardButton(
                 text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/TheAvengerSociety",
